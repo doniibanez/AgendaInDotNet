@@ -17,6 +17,12 @@ Main contact schedule functions:
   Find contact
 ```
 
+## Data
+What is stored?
+
+```
+  Name, Email and Telephone number
+```
 
 ## Authors
 
