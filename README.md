@@ -1,4 +1,4 @@
-# Agenda .NET
+# Agenda .NET (Entity Framework)
 
 Project developed for desktop contact schedule.
 
